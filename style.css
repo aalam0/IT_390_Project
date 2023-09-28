@@ -1,0 +1,728 @@
+.homepage {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.homepage .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 2250px;
+  position: relative;
+}
+
+.homepage .overlap {
+  position: absolute;
+  width: 1089px;
+  height: 1616px;
+  top: 444px;
+  left: 167px;
+}
+
+.homepage .overlap-group {
+  position: absolute;
+  width: 1089px;
+  height: 1616px;
+  top: 0;
+  left: 0;
+}
+
+.homepage .rectangle {
+  position: absolute;
+  width: 365px;
+  height: 1616px;
+  top: 0;
+  left: 4px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000040;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .rectangle-2 {
+  position: absolute;
+  width: 719px;
+  height: 788px;
+  top: 0;
+  left: 370px;
+  background-color: #ffcc330d;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .rectangle-3 {
+  position: absolute;
+  width: 720px;
+  height: 88px;
+  top: 612px;
+  left: 369px;
+  background-color: #ffcc3326;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .img {
+  position: absolute;
+  width: 413px;
+  height: 401px;
+  top: 174px;
+  left: 573px;
+}
+
+.homepage .text-wrapper {
+  position: absolute;
+  width: 126px;
+  top: 135px;
+  left: 417px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .ellipse {
+  width: 87px;
+  height: 87px;
+  top: 43px;
+  left: 431px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.homepage .date-september {
+  position: absolute;
+  width: 188px;
+  top: 67px;
+  left: 829px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .span {
+  font-weight: 700;
+  color: #006633;
+}
+
+.homepage .text-wrapper-2 {
+  color: #000000;
+}
+
+.homepage .time-AM {
+  position: absolute;
+  width: 120px;
+  top: 104px;
+  left: 825px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .location-johnson {
+  position: absolute;
+  width: 169px;
+  top: 102px;
+  left: 606px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .group {
+  position: absolute;
+  width: 338px;
+  height: 36px;
+  top: 723px;
+  left: 612px;
+}
+
+.homepage .div-wrapper {
+  position: relative;
+  width: 336px;
+  height: 36px;
+  background-color: #ffcc33;
+  border-radius: 15px;
+}
+
+.homepage .text-wrapper-3 {
+  position: absolute;
+  width: 56px;
+  top: 8px;
+  left: 140px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #006633;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .description-a-pair {
+  position: absolute;
+  width: 636px;
+  top: 636px;
+  left: 419px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .item-ID {
+  left: 606px;
+  position: absolute;
+  width: 137px;
+  top: 67px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-4 {
+  position: absolute;
+  width: 125px;
+  top: 173px;
+  left: 412px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .location-on {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 103px;
+  left: 577px;
+}
+
+.homepage .date-range {
+  position: absolute;
+  width: 22px;
+  height: 17px;
+  top: 65px;
+  left: 801px;
+}
+
+.homepage .clock {
+  left: 803px;
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 101px;
+}
+
+.homepage .text-wrapper-5 {
+  position: absolute;
+  width: 214px;
+  top: 33px;
+  left: 48px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #006633;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .line {
+  position: absolute;
+  width: 373px;
+  height: 10px;
+  top: 88px;
+  left: 0;
+}
+
+.homepage .text-wrapper-6 {
+  position: absolute;
+  width: 165px;
+  top: 128px;
+  left: 109px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-7 {
+  position: absolute;
+  width: 120px;
+  top: 190px;
+  left: 109px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-8 {
+  position: absolute;
+  width: 206px;
+  top: 252px;
+  left: 109px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-9 {
+  position: absolute;
+  width: 200px;
+  top: 314px;
+  left: 109px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .multiple-devices {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 122px;
+  left: 47px;
+}
+
+.homepage .clothes {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 188px;
+  left: 48px;
+}
+
+.homepage .identification {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  top: 250px;
+  left: 48px;
+}
+
+.homepage .product {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 311px;
+  left: 47px;
+}
+
+.homepage .overlap-2 {
+  position: absolute;
+  width: 720px;
+  height: 788px;
+  top: 828px;
+  left: 369px;
+}
+
+.homepage .rectangle-4 {
+  position: absolute;
+  width: 719px;
+  height: 788px;
+  top: 0;
+  left: 1px;
+  background-color: #ffcc330d;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .rectangle-5 {
+  position: absolute;
+  width: 720px;
+  height: 88px;
+  top: 612px;
+  left: 0;
+  background-color: #ffcc3326;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .text-wrapper-10 {
+  position: absolute;
+  width: 126px;
+  top: 135px;
+  left: 48px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .p {
+  position: absolute;
+  width: 188px;
+  top: 67px;
+  left: 460px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .time-AM-2 {
+  position: absolute;
+  width: 120px;
+  top: 104px;
+  left: 456px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .location-metern-hall {
+  position: absolute;
+  width: 169px;
+  top: 102px;
+  left: 237px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .overlap-wrapper {
+  position: absolute;
+  width: 338px;
+  height: 36px;
+  top: 723px;
+  left: 243px;
+}
+
+.homepage .item-ID-2 {
+  left: 237px;
+  position: absolute;
+  width: 137px;
+  top: 67px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-11 {
+  position: absolute;
+  width: 125px;
+  top: 173px;
+  left: 43px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .location-on-2 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 103px;
+  left: 208px;
+}
+
+.homepage .date-range-2 {
+  position: absolute;
+  width: 22px;
+  height: 17px;
+  top: 65px;
+  left: 432px;
+}
+
+.homepage .clock-2 {
+  left: 434px;
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 101px;
+}
+
+.homepage .rectangle-6 {
+  position: absolute;
+  width: 412px;
+  height: 402px;
+  top: 174px;
+  left: 204px;
+}
+
+.homepage .ellipse-2 {
+  width: 86px;
+  height: 86px;
+  top: 43px;
+  left: 62px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.homepage .description-the {
+  position: absolute;
+  width: 648px;
+  top: 627px;
+  left: 50px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .overlap-3 {
+  position: absolute;
+  width: 631px;
+  height: 54px;
+  top: 348px;
+  left: 126px;
+}
+
+.homepage .rectangle-7 {
+  position: absolute;
+  width: 127px;
+  height: 47px;
+  top: 4px;
+  left: 504px;
+  background-color: #006633;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 4px 4px #0066334a;
+}
+
+.homepage .text-wrapper-12 {
+  position: absolute;
+  width: 116px;
+  top: 17px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #00000080;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .rectangle-8 {
+  position: absolute;
+  width: 524px;
+  height: 47px;
+  top: 4px;
+  left: 0;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #006633;
+}
+
+.homepage .text-wrapper-13 {
+  position: absolute;
+  width: 47px;
+  top: 13px;
+  left: 524px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .search {
+  position: absolute;
+  width: 28px;
+  height: 27px;
+  top: 14px;
+  left: 463px;
+}
+
+.homepage .expand-arrow {
+  position: absolute;
+  width: 28px;
+  height: 54px;
+  top: 0;
+  left: 577px;
+}
+
+.homepage .overlap-4 {
+  position: absolute;
+  width: 1442px;
+  height: 285px;
+  top: 0;
+  left: 0;
+}
+
+.homepage .rectangle-9 {
+  position: absolute;
+  width: 1440px;
+  height: 285px;
+  top: 0;
+  left: 0;
+}
+
+.homepage .overlap-group-wrapper {
+  position: absolute;
+  width: 1442px;
+  height: 91px;
+  top: 194px;
+  left: 0;
+}
+
+.homepage .overlap-group-2 {
+  position: relative;
+  width: 1440px;
+  height: 91px;
+  background-image: url(./img/rectangle-16.svg);
+  background-size: 100% 100%;
+}
+
+.homepage .text-wrapper-14 {
+  position: absolute;
+  width: 267px;
+  top: 24px;
+  left: 587px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .ellipse-3 {
+  width: 144px;
+  height: 125px;
+  top: 160px;
+  left: 122px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.homepage .overlap-5 {
+  position: absolute;
+  width: 124px;
+  height: 42px;
+  top: 2096px;
+  left: 993px;
+  border-radius: 15px;
+  border: 1.5px solid;
+  border-color: #006633;
+}
+
+.homepage .text-wrapper-15 {
+  position: absolute;
+  width: 48px;
+  top: 8px;
+  left: 36px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .overlap-6 {
+  position: absolute;
+  width: 124px;
+  height: 42px;
+  top: 2095px;
+  left: 1133px;
+  border-radius: 15px;
+  border: 1.5px solid;
+  border-color: #006633;
+}
+
+.homepage .text-wrapper-16 {
+  position: absolute;
+  width: 44px;
+  top: 8px;
+  left: 38px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.homepage .overlap-7 {
+  position: absolute;
+  width: 466px;
+  height: 76px;
+  top: 338px;
+  left: 790px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(0, 102, 51, 0.92) 0%, rgb(255, 204, 51) 100%);
+}
+
+.homepage .text-wrapper-17 {
+  position: absolute;
+  width: 306px;
+  top: 18px;
+  left: 86px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
