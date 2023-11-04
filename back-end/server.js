@@ -24,8 +24,7 @@ form.post('/submit', (req, res) => {
 dynamoDB.config.update({
     region: 'us-east-1',  
     endpoint: "http://dynamodb.us-east-1.amazonaws.com",
-    accessKeyId: 'AKIA27VQX6B2ZSPVRWUN',  
-    secretAccessKey: '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' 
+  
 });
 
 const docClient = new dynamoDB.DynamoDB.DocumentClient();
