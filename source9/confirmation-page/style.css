@@ -1,0 +1,286 @@
+.claim-confirmation {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.claim-confirmation .div {
+  background-image: url(./img/george-mason-university-742-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+}
+
+.claim-confirmation .overlap {
+  position: absolute;
+  width: 1512px;
+  height: 882px;
+  top: 100px;
+  left: 0;
+  background-color: #24242480;
+}
+
+.claim-confirmation .overlap-group {
+  position: absolute;
+  width: 888px;
+  height: 430px;
+  top: 226px;
+  left: 312px;
+  background-color: #fbfbfb;
+  border-radius: 10px;
+  box-shadow: 0px 2px 4px #00000040;
+}
+
+.claim-confirmation .text-wrapper {
+  position: absolute;
+  width: 311px;
+  top: 137px;
+  left: 470px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #006633;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.claim-confirmation .p {
+  position: absolute;
+  width: 427px;
+  top: 238px;
+  left: 393px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #006633;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.claim-confirmation .check-circle-wrapper {
+  position: absolute;
+  width: 343px;
+  height: 430px;
+  top: 0;
+  left: 0;
+  background-color: #006633;
+  border-radius: 10px;
+}
+
+.claim-confirmation .check-circle {
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  top: 165px;
+  left: 124px;
+}
+
+.claim-confirmation .overlap-2 {
+  position: absolute;
+  width: 634px;
+  height: 54px;
+  top: 41px;
+  left: 439px;
+}
+
+.claim-confirmation .group {
+  position: absolute;
+  width: 634px;
+  height: 47px;
+  top: 3px;
+  left: 0;
+}
+
+.claim-confirmation .overlap-group-2 {
+  position: relative;
+  height: 47px;
+}
+
+.claim-confirmation .rectangle {
+  width: 524px;
+  left: 0;
+  background-color: #fbfbfb;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #006633;
+  position: absolute;
+  height: 47px;
+  top: 0;
+}
+
+.claim-confirmation .search {
+  position: absolute;
+  width: 28px;
+  height: 27px;
+  top: 10px;
+  left: 463px;
+}
+
+.claim-confirmation .rectangle-2 {
+  width: 127px;
+  left: 507px;
+  background-color: #006633;
+  border-radius: 0px 15px 15px 0px;
+  position: absolute;
+  height: 47px;
+  top: 0;
+}
+
+.claim-confirmation .group-2 {
+  position: absolute;
+  width: 83px;
+  height: 54px;
+  top: 0;
+  left: 524px;
+}
+
+.claim-confirmation .text-wrapper-2 {
+  position: absolute;
+  width: 47px;
+  top: 14px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.claim-confirmation .expand-arrow {
+  position: absolute;
+  width: 28px;
+  height: 54px;
+  top: 0;
+  left: 53px;
+}
+
+.claim-confirmation .text-wrapper-3 {
+  position: absolute;
+  width: 116px;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #00000080;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.claim-confirmation .overlap-wrapper {
+  position: absolute;
+  width: 290px;
+  height: 43px;
+  top: 738px;
+  left: 606px;
+}
+
+.claim-confirmation .div-wrapper {
+  position: relative;
+  width: 288px;
+  height: 43px;
+  border-radius: 5px;
+  background: linear-gradient(180deg, rgb(255, 204, 51) 0%, rgb(0, 102, 51) 100%);
+}
+
+.claim-confirmation .text-wrapper-4 {
+  position: absolute;
+  width: 137px;
+  top: 10px;
+  left: 76px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.claim-confirmation .navbar {
+  position: absolute;
+  width: 1512px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/rectangle-11.png);
+  background-size: 100% 100%;
+}
+
+.claim-confirmation .home {
+  left: 362px;
+  font-weight: 500;
+  color: #000000;
+  position: absolute;
+  top: 45px;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.claim-confirmation .contact-US {
+  position: absolute;
+  top: 45px;
+  left: 832px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.claim-confirmation .about-US {
+  position: absolute;
+  top: 45px;
+  left: 1054px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.claim-confirmation .logo-lostnfound {
+  position: absolute;
+  width: 122px;
+  height: 95px;
+  top: 2px;
+  left: 87px;
+}
+
+.claim-confirmation .text-wrapper-5 {
+  left: 515px;
+  font-weight: 500;
+  color: #000000;
+  position: absolute;
+  top: 45px;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.claim-confirmation .text-wrapper-6 {
+  left: 668px;
+  font-weight: 700;
+  color: #006633;
+  position: absolute;
+  top: 45px;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}

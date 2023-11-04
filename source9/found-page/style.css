@@ -1,0 +1,518 @@
+.found-item-form {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.found-item-form .div {
+  background-image: url(./img/george-mason-university-742-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 1512px;
+  height: 1483px;
+  position: relative;
+}
+
+.found-item-form .overlap {
+  position: absolute;
+  width: 1512px;
+  height: 1383px;
+  top: 100px;
+  left: 0;
+  background-color: #24242480;
+}
+
+.found-item-form .overlap-group {
+  position: absolute;
+  width: 1253px;
+  height: 1012px;
+  top: 190px;
+  left: 131px;
+  background-color: #efefef;
+  border-radius: 15px;
+}
+
+.found-item-form .text-wrapper {
+  position: absolute;
+  top: 58px;
+  left: 104px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.found-item-form .p {
+  position: absolute;
+  top: 121px;
+  left: 104px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.found-item-form .text-wrapper-2 {
+  position: absolute;
+  width: 331px;
+  top: 448px;
+  left: 107px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .text-wrapper-3 {
+  position: absolute;
+  width: 367px;
+  top: 559px;
+  left: 107px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .text-wrapper-4 {
+  position: absolute;
+  width: 87px;
+  top: 337px;
+  left: 491px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .text-wrapper-5 {
+  position: absolute;
+  width: 58px;
+  top: 229px;
+  left: 104px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .text-wrapper-6 {
+  position: absolute;
+  width: 132px;
+  top: 225px;
+  left: 491px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .rectangle {
+  position: absolute;
+  width: 288px;
+  height: 34px;
+  top: 259px;
+  left: 104px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #006633eb;
+}
+
+.found-item-form .rectangle-2 {
+  position: absolute;
+  width: 288px;
+  height: 34px;
+  top: 370px;
+  left: 105px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #006633eb;
+}
+
+.found-item-form .rectangle-3 {
+  position: absolute;
+  width: 288px;
+  height: 34px;
+  top: 482px;
+  left: 107px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #006633eb;
+}
+
+.found-item-form .text-wrapper-7 {
+  position: absolute;
+  width: 331px;
+  top: 448px;
+  left: 494px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .rectangle-4 {
+  position: absolute;
+  width: 288px;
+  height: 34px;
+  top: 482px;
+  left: 494px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #006633eb;
+}
+
+.found-item-form .rectangle-5 {
+  position: absolute;
+  width: 467px;
+  height: 41px;
+  top: 593px;
+  left: 104px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #006633eb;
+}
+
+.found-item-form .rectangle-6 {
+  position: absolute;
+  width: 272px;
+  height: 34px;
+  top: 370px;
+  left: 491px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #006633eb;
+}
+
+.found-item-form .rectangle-7 {
+  position: absolute;
+  width: 271px;
+  height: 34px;
+  top: 258px;
+  left: 491px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #006633eb;
+}
+
+.found-item-form .text-wrapper-8 {
+  position: absolute;
+  width: 197px;
+  top: 337px;
+  left: 105px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .text-wrapper-9 {
+  position: absolute;
+  width: 959px;
+  top: 678px;
+  left: 105px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .rectangle-8 {
+  position: absolute;
+  width: 710px;
+  height: 145px;
+  top: 714px;
+  left: 104px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #006633eb;
+}
+
+.found-item-form .text-wrapper-10 {
+  position: absolute;
+  top: 903px;
+  left: 105px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #006633;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.found-item-form .group {
+  position: absolute;
+  width: 217px;
+  height: 38px;
+  top: 894px;
+  left: 244px;
+}
+
+.found-item-form .div-wrapper {
+  position: relative;
+  width: 215px;
+  height: 38px;
+  background-color: #006633;
+  border-radius: 5px;
+}
+
+.found-item-form .text-wrapper-11 {
+  position: absolute;
+  top: 10px;
+  left: 66px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.found-item-form .overlap-2 {
+  position: absolute;
+  width: 634px;
+  height: 54px;
+  top: 41px;
+  left: 439px;
+}
+
+.found-item-form .overlap-group-wrapper {
+  position: absolute;
+  width: 634px;
+  height: 47px;
+  top: 3px;
+  left: 0;
+}
+
+.found-item-form .overlap-group-2 {
+  position: relative;
+  height: 47px;
+}
+
+.found-item-form .rectangle-9 {
+  position: absolute;
+  width: 524px;
+  height: 47px;
+  top: 0;
+  left: 0;
+  background-color: #fbfbfb;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #006633;
+}
+
+.found-item-form .search {
+  position: absolute;
+  width: 28px;
+  height: 27px;
+  top: 10px;
+  left: 463px;
+}
+
+.found-item-form .rectangle-10 {
+  position: absolute;
+  width: 127px;
+  height: 47px;
+  top: 0;
+  left: 507px;
+  background-color: #006633;
+  border-radius: 0px 15px 15px 0px;
+}
+
+.found-item-form .group-2 {
+  position: absolute;
+  width: 83px;
+  height: 54px;
+  top: 0;
+  left: 524px;
+}
+
+.found-item-form .text-wrapper-12 {
+  position: absolute;
+  width: 47px;
+  top: 14px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.found-item-form .expand-arrow {
+  position: absolute;
+  width: 28px;
+  height: 54px;
+  top: 0;
+  left: 53px;
+}
+
+.found-item-form .text-wrapper-13 {
+  position: absolute;
+  width: 116px;
+  top: 13px;
+  left: 19px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #00000080;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .back-to-items {
+  position: absolute;
+  top: 129px;
+  left: 131px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.found-item-form .overlap-wrapper {
+  position: absolute;
+  width: 278px;
+  height: 52px;
+  top: 1236px;
+  left: 637px;
+}
+
+.found-item-form .overlap-3 {
+  position: relative;
+  width: 276px;
+  height: 52px;
+  border-radius: 5px;
+  background: linear-gradient(180deg, rgb(255, 204, 51) 0%, rgb(0, 102, 51) 100%);
+}
+
+.found-item-form .text-wrapper-14 {
+  position: absolute;
+  width: 104px;
+  top: 12px;
+  left: 86px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.found-item-form .navbar {
+  position: absolute;
+  width: 1512px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/rectangle-11.png);
+  background-size: 100% 100%;
+}
+
+.found-item-form .home {
+  left: 362px;
+  font-weight: 500;
+  color: #000000;
+  position: absolute;
+  top: 45px;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.found-item-form .contact-US {
+  position: absolute;
+  top: 45px;
+  left: 832px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.found-item-form .about-US {
+  position: absolute;
+  top: 45px;
+  left: 1054px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.found-item-form .logo-lostnfound {
+  position: absolute;
+  width: 122px;
+  height: 95px;
+  top: 2px;
+  left: 87px;
+}
+
+.found-item-form .text-wrapper-15 {
+  left: 668px;
+  font-weight: 700;
+  color: #006633;
+  position: absolute;
+  top: 45px;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.found-item-form .text-wrapper-16 {
+  left: 515px;
+  font-weight: 500;
+  color: #000000;
+  position: absolute;
+  top: 45px;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
